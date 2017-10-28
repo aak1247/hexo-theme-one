@@ -355,12 +355,12 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: aak1247
+duoshuo_shortname:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: aak1247
   count: true
 
 # Hypercomments
@@ -393,7 +393,7 @@ changyan:
 #add_this_id:
 
 # Share
-duoshuo_share: true
+duoshuo_share: false
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -417,8 +417,8 @@ duoshuo_share: true
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
-  admin_enable: true
+  ua_enable: false
+  admin_enable: false
   user_id: 13871273
   admin_nickname: 作者
 
