@@ -19,6 +19,12 @@
     NexT.{{ theme.scheme }}
   </a>
 </div>
+
+{% if theme.policed %}
+<div class="policed-info">
+  <a href="{{ theme.policed.link }}">{{ theme.policed.number }}</a>
+</div>
+
 {% endif %}
 <script>
 (function(){
