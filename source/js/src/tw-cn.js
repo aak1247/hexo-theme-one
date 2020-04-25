@@ -1,6 +1,6 @@
 var defaultEncoding = 2; // 1: 繁體中文, 2: 简体中文
 var translateDelay = 0;
-var cookieDomain = "http://www.aak1247.cn"; //更改为你的博客网址
+var cookieDomain = "https://www.aak1247.cn"; //更改为你的博客网址
 var msgToTraditionalChinese = "繁體"; //此处可以更改为你想要显示的文字
 var msgToSimplifiedChinese = "简体"; //同上，但两处均不建议更改
 var translateButtonId = "translateLink";
