@@ -12,7 +12,7 @@ keywords: "aak1247, hexo, NexT, 博客"
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
 rss: /atom.xml
-url: http://aak1247.coding.me/
+url: http://www.aak1247.cn/
 
 # Specify the date when the site was setup
 #since: 2015
