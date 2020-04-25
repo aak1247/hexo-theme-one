@@ -20,12 +20,15 @@
   </a>
 </div>
 
+{% endif %}
+
 {% if theme.policed %}
 <div class="policed-info">
   <a href="{{ theme.policed.link }}">{{ theme.policed.number }}</a>
 </div>
 
 {% endif %}
+
 <script>
 (function(){
     var bp = document.createElement('script');
